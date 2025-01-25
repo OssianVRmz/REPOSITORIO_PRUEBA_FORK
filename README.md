@@ -1,4 +1,4 @@
-# REPOSITORIO_PRUEBA
+# REPOSITORIO
 Probando el uso de Github
 
 Probando probando
